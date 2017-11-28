@@ -1,0 +1,8 @@
+*.pyc
+.*.swp
+.*.swn
+.*.swo
+*~lock*
+*~
+*js.map
+npm-debug.log
